@@ -1,0 +1,48 @@
+.Menu {
+    height: 40px;
+    width: 100%;
+    background-color: #23527c;
+}
+
+.btn {
+    height: 40px;
+    border: 2px solid white;
+    width: 100px;
+    background-color: #5bc0de;
+}
+
+.app {
+
+}
+
+.Emb {
+    float: right;
+    height: 36px;
+    border: 2px solid white;
+    width: 100px;
+    background-color: #5bc0de;
+    text-align: center;
+    font-size: 20px;
+}
+
+.LeftTool {
+    border: 0px solid black;
+    float: left;
+    width: 20%;
+    height: 500px;
+
+
+}
+
+.RightTool {
+    border: 0px solid black;
+
+    width: 21%;
+    height: 500px;
+    position: absolute;
+    right: 0px;
+    top: 40px;
+    background-color: lightblue;
+
+
+}

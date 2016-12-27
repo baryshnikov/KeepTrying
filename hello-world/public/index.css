@@ -1,0 +1,36 @@
+html {
+
+}
+body {
+
+    background: whitesmoke;
+    overflow: scroll;
+
+}
+body::-webkit-scrollbar {
+    width: 1em;
+}
+
+body::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: darkgrey;
+    outline: 1px solid slategrey;
+}
+.lefttoolbar{
+   float: left;
+    border : 1px solid black;
+    height: 500px;
+    width:30%;
+}
+.line{
+
+}
+.righttoolbar{
+    float: right;
+    border : 1px solid black;
+    height: 500px;
+    width: 30%;
+}

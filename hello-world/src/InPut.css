@@ -1,0 +1,45 @@
+.massages {
+
+    border: 0px solid black;
+    height: 400px;
+    width: 70%;
+    position: relative;
+    overflow-y: auto;
+    float: left;
+    background-color: #faf2cc;
+    display: flex;
+    flex-direction: column-reverse;
+
+}
+
+.massage {
+    height: auto;
+    width: 100%;
+    background-color: #5bc0de;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+
+.chat {
+    border: 0px solid black;
+    height: 500px;
+    width: 79%;
+    background-color: #afd9ee;
+
+}
+
+h1 {
+    font-size: 18px;
+    color: #449d44;
+}
+
+.InputField {
+
+}
+
+button {
+    float: left;
+    border: 1px solid whitesmoke;
+    background-color: #46b8da;
+}
